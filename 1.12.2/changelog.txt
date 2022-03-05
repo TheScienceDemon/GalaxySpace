@@ -1,5 +1,25 @@
 ///Changelog///
 #ru
+r.-----------------------2.0.18----------------------------
+r.1. Обновлены музыкальные диски в сундаках данжей.
+r.2. Добавлена генерация воды под гейзеры на Тритон.
+r.3. Увеличина прочность роторов.
+r.4. Возвращен моудль подводное дыхание в Тяжелый Косический Костюм.
+r.5. Жидкостный Экстрактор теперь работает только с жидкостями.
+r.6. Добавлены модерн и классик версии GUI.
+r.7. Добавлены самородки металлов.
+r.8. Добавлен природный газ, газовый генератор, газовый сборщик и ручной газовый экстрактор.
+r.9. Исправлен баг с 100% шансом в переработчике.
+r.10. Возвращена солнечная радиация на Луне (отключается в конфиге), добавлен новый ген никеля на Земле.
+r.11. Включена солнечная радиация на Энцеладе.
+r.12. Анимированные кирпичи данжей.
+r.13. Исправлена гравитация на Астероидах.
+r.14. Скорректированы орбиты, добавлены обитаемые зоны.
+r.15. Добавлен fr_FR.lang Thx Lucki#7270
+r.16. Изменен рецепт для Жидкостного Экстрактора.
+r.17. Добавлен конфиг для зеленого цвета травы на Барнарде С.
+r.18. Скорректирована температура на небесных телах.
+r.19. Добавлены CraftTweaker методы для газового генератора.
 r.-----------------------2.0.17----------------------------
 r.1. Отключены солнечные панели на Венере.
 r.2. Добавлена генерация пещер на Ио.
@@ -125,14 +145,27 @@ r.16. Максимальный радиус у Гравитационного М
 r.17. Добавлена ja_JP локализация.
 r.18. Гравитационный эффект теперь применяется и на мобов.
 r.19. Добавлены термокостюмы 3 и 4 уровня.
-r.-----------------------2.0.10----------------------------
-r.1. Исправлен цвет травы\воды на Земле.
-r.2. Исправлены сломанные чанки на Проксиме B.
-r.3. Добавлены облака на Проксиму B.
-r.4. Добавлены компоненты атмосферы на Барнарду С.
-r.5. Добавлена генерация гравия на Барнарду С.
-r.6. Исправлены сломанные чанки на Энцеладе.
 #en
+e.-----------------------2.0.18----------------------------
+e.1. Updated loot tables for music disks in dungeons.
+e.2. Added water gen on Trinton under geysers.
+e.3. Increased durability for wind generator fans.
+e.4. Returned water breathing in Heavy Space Suit.
+e.5. Liquid Extractor now work with only liquids.
+e.6. Added new modern and classic GUI.
+e.7. Added nuggets for metals.
+e.8. Added Natural Gas, Gas Generator, Gas Collector, Gas Extractor.
+e.9. Fixed 100% chance in recycler.
+e.10. Returned solar radiation on Moon(config), added new nickel gen on Overworld.
+e.11. Enabled solar radiation on Enceladus.
+e.12. Animated dungeon bricks layer.
+e.13. Fixed gravity on Asteroids.
+e.14. Corrected orbits, added habitable zones.
+e.15. Added fr_FR.lang Thx Lucki#7270
+e.16. Changed recipe for Liquid Extractor.
+e.17. Added config for green Barnarda C.
+e.18. Corrected temperature on solar system bodies.
+e.19. CraftTweaker methods for gas generator.
 e.-----------------------2.0.17----------------------------
 e.1. Disabled solar panel on Venus.
 e.2. Added cave gen on IO.
@@ -258,13 +291,3 @@ e.16. The maximum radius of the Gravity Module = 16.
 e.17. Added ja_JP localization.
 e.18. The gravitational effect is now applied to mobs.
 e.19. Added thermal padding tier 3 and 4.
-e.-----------------------2.0.10----------------------------
-e.1. Fixed color grass/water blocks on Earth.
-e.2. Fixed broken chunk on Proxima B.
-e.3. Added clouds on Proxima B.
-e.4. Added atmoshperic components on Barnarda C.
-e.5. Added gravel gen on Barnarda C.
-e.6. Fixed broken chunks on Enceladus.
-e.16. Fixed SDHD-120 plate recipe with enablePlateOreDict turned off.
-e.17. Added breathable Barnarda C planet.
-e.18. Update minimum GC4 build - 215.
